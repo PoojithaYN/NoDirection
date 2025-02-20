@@ -1,0 +1,18 @@
+# Ignore compiled binaries
+*.o
+*.out
+*.exe
+
+# Ignore build directories
+build/
+*.dSYM/
+*.obj/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore macOS metadata
+.DS_Store
+

@@ -1,0 +1,8 @@
+ADD 1 0 2   
+SUB 3 1 2  
+BNE 1 2 5   
+JAL 4 6   
+LW 5 2 1 
+SW 5 2 1   
+AND 6 1 2   
+
