@@ -4,6 +4,7 @@ COA project - Multi-core RISC-V simulator
 
 ### Date: 20-02-2025
 **Members** Poojitha(CS23B043), Ananyaa(CS23B005)
+
 **Decisions:**
 - Finalized implementation of memory allocation (1KB per core, 4KB shared)
 -Debugged incorrect JAL instruction execution
@@ -15,6 +16,7 @@ COA project - Multi-core RISC-V simulator
 
 ### Date: 18-02-2025
 **Members** Poojitha(CS23B043), Ananyaa(CS23B005)
+
 **Decisions:**
 - Fixed segmentation fault when accessing invalid memory
 -implemented basic instruction set (ADD, SUB, BNE, JAL, LW, SW, AND)
@@ -26,6 +28,7 @@ COA project - Multi-core RISC-V simulator
 
 ### Date: 15-02-2025
 **Members** Poojitha(CS23B043), Ananyaa(CS23B005)
+
 **Decisions:**
 - Decided to use unordered_map for instruction set storage.
  
@@ -36,6 +39,7 @@ COA project - Multi-core RISC-V simulator
 
 ### Date: 18-02-2025
 **Members** Poojitha(CS23B043), Ananyaa(CS23B005)
+
 **Decisions:**
 - Fixed segmentation fault when accessing invalid memory
 -implemented basic instruction set (ADD, SUB, BNE, JAL, LW, SW, AND)
@@ -48,6 +52,7 @@ ptimize memory access for multi-core execution, improve efficiency
 
 ### Date: 10-02-2025
 **Members** Poojitha(CS23B043), Ananyaa(CS23B005)
+
 **Decisions:**
 - finalized our roles in the project.
 -Decided to use C++ and qt for UI(if time permits)
